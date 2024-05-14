@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Primer post en Netlify"
+date:   2024-05-14 22:57:49 +0000
+categories: jekyll update
+usemathjax: true
+---
+
+# Unico post.
+
+- Esta es la prueba del unico post en Netlify.
